@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "command-line-args": "^5.2.0",
+    "node-dir": "^0.1.17"
+  }
+}
